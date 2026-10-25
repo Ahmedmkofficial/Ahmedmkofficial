@@ -1,3 +1,4 @@
+![Phantom Terminal Banner](<Neon Hacker Terminal Profile Banner.png>)
 <!--
   PHANTOM TERMINAL // AHMED
   Personal GitHub Profile
