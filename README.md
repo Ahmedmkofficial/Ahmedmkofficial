@@ -94,7 +94,7 @@ I learn by building, investigating, experimenting, and tackling practical techni
 
 <table>
   <tr>
-    <td><b>01 / ALX</b></td>
+    <td><b>01 / CyberSecurity Certification</b></td>
     <td>Completed the ALX Cybersecurity course.</td>
   </tr>
   <tr>
