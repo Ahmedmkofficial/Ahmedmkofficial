@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=600&lines=%24+whoami;Curious+mind.+Technical+instinct.;Observe.+Investigate.+Build.;Knowledge+is+the+payload." alt="Phantom Terminal animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&lines=%24+whoami;Think+like+an+attacker.;Build+like+an+engineer.;Defend+like+it+matters." alt="Phantom Terminal animation" />
 </p>
 
 <p align="center">
@@ -189,7 +189,7 @@ Status       : Always learning. Always building.
 </p>
 
 <p align="center">
-  <i>Curiosity is the exploit. Knowledge is the payload.</i>
+  <i>Think like an attacker. Build like an engineer. Defend like it matters.</i>
 </p>
 
 <p align="center">
