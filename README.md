@@ -23,6 +23,11 @@
   <code>USER: AHMED</code> &nbsp; <code>ENV: LEARNING</code> &nbsp; <code>STATUS: ACTIVE</code>
 </p>
 
+---
+
+
+
+
 <p align="center">
   <samp>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</samp>
 </p>
@@ -59,34 +64,34 @@ I learn by building, investigating, experimenting, and tackling practical techni
 </details>
 
 ---
+---
 
-### `$ ls tech_stack/`
+### `$ ls tech_stack`
 
-**01 — Languages**
+#### `01 PROGRAMMING & DEVELOPMENT`
 
-<p>
-  <img src="https://img.shields.io/badge/Python-101510?style=for-the-badge&logo=python&logoColor=39FF14" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-101510?style=for-the-badge&logo=cplusplus&logoColor=39FF14" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-101510?style=for-the-badge&logo=openjdk&logoColor=39FF14" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-101510?style=for-the-badge&logo=javascript&logoColor=39FF14" alt="JavaScript"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,html,css,fastapi" alt="Programming and development technologies" />
 </p>
 
-**02 — Web & Backend**
+#### `02 SECURITY & ENVIRONMENT`
 
-<p>
-  <img src="https://img.shields.io/badge/React-101510?style=for-the-badge&logo=react&logoColor=39FF14" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-101510?style=for-the-badge&logo=html5&logoColor=39FF14" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-101510?style=for-the-badge&logo=css3&logoColor=39FF14" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/FastAPI-101510?style=for-the-badge&logo=fastapi&logoColor=39FF14" alt="FastAPI"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode" alt="Security and development environment tools" />
 </p>
 
-**03 — Environment**
+#### `03 CURRENT OPERATIONS`
 
-`Linux` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `VS Code`
+```text
+[+] Cybersecurity fundamentals
+[+] Blue Team & defensive security
+[+] Capture The Flag (CTF) challenges
+[+] Threat intelligence & OSINT
+[+] Frontend development with React
+[~] Python development — building stronger fundamentals
+[~] Practical security research
+```
 
-**04 — Security interests**
-
-`BLUE TEAM` &nbsp; `CTFs` &nbsp; `THREAT INTELLIGENCE` &nbsp; `OSINT` &nbsp; `SECURITY RESEARCH`
 
 ---
 
