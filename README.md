@@ -20,6 +20,14 @@
 </p>
 
 <p align="center">
+  <a href="https://ahmedmkofficial.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="./portfolio-banner.svg"
+         width="100%"
+         alt="Explore Ahmed's Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
   <code>USER: AHMED</code> &nbsp; <code>ENV: LEARNING</code> &nbsp; <code>STATUS: ACTIVE</code>
 </p>
 
